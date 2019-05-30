@@ -1,0 +1,7 @@
+n : uint64
+x : Array(𝔽MNT4753.q, n)
+
+y : Array(𝔽MNT6753.q, n)
+
+out_x : 𝔽MNT4753.q
+out_y : 𝔽MNT6753.q
